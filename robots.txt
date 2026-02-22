@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sheboyganplumbingco.com/sitemap.xml
